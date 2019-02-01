@@ -1,7 +1,7 @@
 {
         "intent": {
-        "name": "Hridul Gupta
+        "name": "hridul gupta
     },
     "intent_type": "count.intent",
-    "utterance": "Give me details of Hridul Gupta"
+    "utterance": "Fetch details of hridul gupta"
 }
