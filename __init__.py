@@ -56,4 +56,4 @@ class Dynamic_Details(MycroftSkill):
 
 
 def create_skill():
-    return Count()
+    return Dynamic_Details()
